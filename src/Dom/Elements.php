@@ -9,7 +9,7 @@ namespace QL\Dom;
 
 use phpDocumentor\Reflection\Types\Null_;
 use phpQueryObject;
-use Tightenco\Collect\Support\Collection;
+use Illuminate\Support\Collection;
 
 /**
  * Class Elements
