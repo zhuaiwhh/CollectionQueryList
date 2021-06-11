@@ -40,7 +40,7 @@ QueryList3 文档:http://v3.querylist.cc
 ## 安装
 通过Composer安装:
 ```
-composer require collection_query_list/querylist
+composer require collection-query-list/querylist
 ```
 
 ## 使用
