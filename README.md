@@ -5,7 +5,7 @@
 </p>
 # 此更新解决larave5.5 使用 Class 'Tightenco\Collect\Support\Collection' not found  问题 
 
- 借鉴作者 GitHub:https://github.com/jae-jae/QueryList
+ 借鉴作者 GitHub:https://github.com/jae-jae/QueryList 感谢
 
 # QueryList  简介
 `QueryList`是一套简洁、优雅、可扩展的PHP采集工具(爬虫)，基于phpQuery。
@@ -40,7 +40,7 @@ QueryList3 文档:http://v3.querylist.cc
 ## 安装
 通过Composer安装:
 ```
-composer require jaeger/querylist
+composer require CollectionQueryList/querylist
 ```
 
 ## 使用
